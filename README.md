@@ -36,7 +36,7 @@ The purpose of this project was to design and develop a simple e-commerce websit
 
 # Project Description
 
-LuxeStore is an online shopping website developed using Wix. The platform provides customers with a simple and user-friendly experience for browsing products, learning about the business, and contacting customer support.
+LuxeStore is an online shopping website developed using Wix. The platform provides customers with a simple and user-friendly experience for browsing products, viewing product details, learning about the business, and contacting customer support.
 
 The website was designed to offer smooth navigation while implementing the fundamental features of an e-commerce website.
 
@@ -106,7 +106,7 @@ The Contact page contains:
 
 ## Home Page
 
-![Home Page](https://github.com/mDarcy9/ElectroHub_rw/blob/main/Home.PNG?raw=true)
+![Home Page](https://github.com/Mucyo-jean/luxe/blob/main/Home.PNG?raw=true)
 
 The Home page welcomes visitors to LuxeStore and highlights featured products while providing easy navigation.
 
@@ -114,7 +114,7 @@ The Home page welcomes visitors to LuxeStore and highlights featured products wh
 
 ## About Page
 
-![About Page](https://github.com/mDarcy9/ElectroHub_rw/blob/main/AboutUs.PNG?raw=true)
+![About Page](https://github.com/Mucyo-jean/luxe/blob/main/about.PNG?raw=true)
 
 The About page introduces the business, its mission, and its commitment to customer satisfaction.
 
@@ -122,7 +122,7 @@ The About page introduces the business, its mission, and its commitment to custo
 
 ## Contact Page
 
-![Contact Page](https://github.com/mDarcy9/ElectroHub_rw/blob/main/ContactUs.PNG?raw=true)
+![Contact Page](https://github.com/Mucyo-jean/luxe/blob/main/Contact.PNG?raw=true)
 
 The Contact page provides communication channels for customer inquiries and support.
 
@@ -130,7 +130,7 @@ The Contact page provides communication channels for customer inquiries and supp
 
 ## Product Page
 
-![Product Page](https://github.com/mDarcy9/ElectroHub_rw/blob/main/Product.PNG?raw=true)
+![Product Page](https://github.com/Mucyo-jean/luxe/blob/main/product.PNG?raw=true)
 
 The Product page displays available products along with descriptions and pricing information.
 
@@ -164,27 +164,41 @@ This project provided valuable experience in:
 
 ---
 
+# Live Website Link
+
+https://jeanpoulmucyo.wixsite.com/luxestore/category/all-products
+
+---
+
+# GitHub Repository Link
+
+https://github.com/Mucyo-jean/luxe
+
+---
+
 # Repository Structure
 
 ```text
-LuxeStore/
+luxe/
 │
 ├── README.md
 ├── Home.PNG
-├── AboutUs.PNG
-├── ContactUs.PNG
-└── Product.PNG
+├── about.PNG
+├── Contact.PNG
+└── product.PNG
 ```
 
 ---
 
 # Submission Requirements Checklist
 
-- [x] Homepage Developed
+- [x] Live Website Link
+- [x] GitHub Repository Link
+- [x] README.md Documentation
+- [x] Home Page Developed
 - [x] Product Page Developed
 - [x] About Page Developed
 - [x] Contact Page Developed
-- [x] README.md Documentation
 - [x] Screenshots Included in Repository
 
 ---
