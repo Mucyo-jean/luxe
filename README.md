@@ -166,7 +166,8 @@ This project provided valuable experience in:
 
 # Live Website Link
 
-https://jeanpoulmucyo.wixsite.com/luxestore/category/all-products
+
+https://jeanpoulmucyo.wixsite.com/luxestore
 
 ---
 
