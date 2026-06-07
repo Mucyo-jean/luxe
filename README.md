@@ -235,4 +235,3 @@ Academic Year: 2025–2026
 
 ---
 
-> "Your project is not just an assignment — it is part of your professional portfolio."
